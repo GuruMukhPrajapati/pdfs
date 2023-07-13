@@ -10,8 +10,8 @@ All Subjects &amp; Hand-written Notes And PDFs (Free Download) - Notes by <a hre
 <th> Notes</th>
 <th>Pdf</th>  
 </tr>
-<tr><td>1.</td><td><a target="_blank" href="">Fundamental Of Computer (FOC)</a></td><td> Click here</td><td> Click here</td></tr>
-<tr><td>3.</td><td><a target="_blank" href="">Internet Technology And E-Com (IT)</a></td><td> Click here</td><td> Click here</td></tr>
-<tr><td>3.</td><td><a target="_blank" href="">Internet Technology And E-Com (IT)</a></td><td> Click here</td><td> Click here</td></tr>
-<tr><td>4.</td><td><a target="_blank" href="">Digital Logic (DL)</a></td><td> Click here</td><td> Click here</td></tr>
-<tr><td>5.</td><td><a target="_blank" href="">Fundamentals Of Maths </a></td><td> Click here</td><td> Click here</td></tr>
+<tr><td>1.</td><td><a target="_blank" href="">Fundamental Of Computer (FOC)</a></td><td> Click Here</td><td> Click Here</td></tr>
+<tr><td>3.</td><td><a target="_blank" href="">Internet Technology And E-Com (IT)</a></td><td> Click Here</td><td> Click Here</td></tr>
+<tr><td>3.</td><td><a target="_blank" href="">Internet Technology And E-Com (IT)</a></td><td> Click Here</td><td> Click Here</td></tr>
+<tr><td>4.</td><td><a target="_blank" href="">Digital Logic (DL)</a></td><td> Click Here</td><td> Click Here</td></tr>
+<tr><td>5.</td><td><a target="_blank" href="">Fundamentals Of Maths </a></td><td> Click Here</td><td> Click Here</td></tr>
