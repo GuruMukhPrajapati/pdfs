@@ -1,6 +1,6 @@
 # ACE-BCA-1ST-YEAR-NOTES
 All Subjects &amp; Hand-written Notes And PDFs (Free Download) - Notes by <a href="https://github.com/GuruMukhPrajapati"> 
-GuruMUkh AKA   ``Gourav Prajapat``  </a>.
+GuruMukh AKA   ``Gourav Prajapat``  </a>.
 
 #<a href="">Download All</a>
 
