@@ -50,7 +50,7 @@ GuruMukh AKA   ``Gourav Prajapat``  </a>.
   <tr>
     <td>5.</td>
     <td>Fundamentals Of Maths</td>
-    <td><a target="_blank" href="https://drive.google.com/file/d/1IEAfz-9eHV7ltjIU51rZYFD9DK_UlwJq/view?usp=drive_link">Click Here</a></td>
+    <td><a target="_blank" href="https://drive.google.com/drive/folders/1qXQs-mCjPWi8oZu_hrOTbhOHv7zlvz4H?usp=drive_link">Click Here</a></td>
   </tr>
 </table>
 
