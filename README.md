@@ -35,17 +35,17 @@ GuruMukh AKA   ``Gourav Prajapat``  </a>.
   <tr>
     <td>3.</td>
     <td>Programing With C Language</td>
-    <td><a target="_blank" href="https://drive.google.com/file/d/15Ar52mI34MnTbaJWfomKka9kO5hW-Lsf/view?usp=sharing">Click Here</a></td>
+    <td><a target="_blank" href="">Click Here</a></td>
   </tr>
   <tr>
     <td>3.</td>
     <td>Internet Technology And E-Com (IT)</td>
-    <td><a target="_blank" href="https://drive.google.com/file/d/1v37WqgQpL5cIUhOCNSuf7foAkidl4Ecz/view?usp=drive_link">Click Here</a></td>
+    <td><a target="_blank" href="">Click Here</a></td>
   </tr>
   <tr>
     <td>4.</td>
     <td>Digital Logic (DL)</td>
-    <td><a target="_blank" href="https://drive.google.com/file/d/1HV7XJYClc7vdY4ulFtXQNIh50NICThpo/view?usp=sharing">Click Here</a></td>
+    <td><a target="_blank" href="">Click Here</a></td>
   </tr>
   <tr>
     <td>5.</td>
