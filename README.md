@@ -2,7 +2,7 @@
 All Subjects &amp; Hand-written Notes And PDFs (Free Download) - Notes by <a href="https://github.com/GuruMukhPrajapati"> 
 GuruMukh AKA   ``Gourav Prajapat``  </a>.
 
-#<a href="https://drive.google.com/file/d/1XN8WCMD12k0gKtj2eMXIyHJgfMfGjFMm/view?usp=drive_link">Download All</a>
+#<a href="https://drive.google.com/drive/folders/1viSDEFpgLnQYm3DZgmENoC0kJVGjUYeX?usp=drive_link">GDRIVE 👾 </a>
 
 <table width="100%" class="table">
 <tr>
