@@ -11,7 +11,7 @@ GuruMukh AKA   ``Gourav Prajapat``  </a>.
 <th> Hand-Written Notes</th>
 <th>Pdf</th>  
 </tr>
-<tr><td>1.</td><td>Fundamental Of Computer (FOC)</a></td><td> <a target="_blank" href=""> Click Here</td><td> <a target="_blank" href="https://drive.google.com/file/d/19O0geDk8oNxlzVPOto5wiivWxpfV9OLk/view?usp=sharing">Click Here</td></tr>
+<tr><td>1.</td><td>Fundamental Of Computer (FOC)</a></td><td> <a target="_blank" href="https://drive.google.com/file/d/1uoXjgnQFTikpaCgwL0ivN7MzG12kN3B_/view?usp=drive_link"> Click Here</td><td> <a target="_blank" href="https://drive.google.com/file/d/19O0geDk8oNxlzVPOto5wiivWxpfV9OLk/view?usp=sharing">Click Here</td></tr>
 <tr><td>3.</td><td>Programing With C Language </a></td><td><a target="_blank" href=""> Click Here</td><td><a target="_blank" href="https://drive.google.com/file/d/15Ar52mI34MnTbaJWfomKka9kO5hW-Lsf/view?usp=sharing"> Click Here</td></tr>
 <tr><td>3.</td><td>Internet Technology And E-Com (IT)</a></td><td><a target="_blank" href="https://drive.google.com/file/d/1v37WqgQpL5cIUhOCNSuf7foAkidl4Ecz/view?usp=drive_link"> Click Here</td><td><a target="_blank" href=""> Click Here</td></tr>
 <tr><td>4.</td><td>Digital Logic (DL)</a></td><td> <a target="_blank" href="https://drive.google.com/file/d/1HV7XJYClc7vdY4ulFtXQNIh50NICThpo/view?usp=sharing">Click Here</td><td><a target="_blank" href="https://drive.google.com/file/d/1Ro1-AdyT1KrVqeJhmPVpBWi2AgHPT4XN/view?usp=sharing"> Click Here</td></tr>
